@@ -1,3 +1,3 @@
 # python-darslarim 
 
-Ushbu repozitoriyada python darslariga oid darslarim mavjud
+Ushbu repozitoriyada Python ga oid darslarim mavjud
